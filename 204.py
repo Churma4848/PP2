@@ -1,0 +1,5 @@
+a = input()
+w1 = str(input())
+w2 = str(input())
+w3 = str(input())
+print(f"{w1}{a}{w2}{a}{w3}") 

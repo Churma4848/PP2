@@ -12,3 +12,5 @@ if score >= 0 and score <= 100:
   print("Valid score")
 else:
   print("Invalid score")
+
+# Calculus: -3; PP2: -3; Discra: -1; 
